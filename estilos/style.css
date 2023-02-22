@@ -84,3 +84,7 @@ body {
     border-radius: 10px;
     height: 20px;
 }
+
+.bnt-login > button {
+    background-color: var(--cor8);
+}
